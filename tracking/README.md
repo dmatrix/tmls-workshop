@@ -94,17 +94,17 @@ We will walk through this during the session, but please sign up for [Databricks
 
 ![](images/databricks_ce_loging.png)
 
-3. Create a ML Runtime 6.5 Cluster
+3. Create a ML Runtime 7.1+ with Spark 3.0.0 Cluster
 
 ![](images/databricks_ce_create_mlr.png)
 
 4. In the brower: 
-  * (1) Go the GitHub **notebooks** subdirectory
-  * (2) Download **MLFlow-CE.dbc** file on your laptop
+  * (1) Go the GitHub **notebooks/dbc/** subdirectory
+  * (2) Download **MLFlow-Tracking.dbc** file on your laptop
 
 ![](images/databricks_ce_download_notebooks.png)
 
-5. Import the **MLFlow-CE.dbc** file into the Databricks Community Edition
+5. Import the **MLFlow-Tracking.dbc** file into the Databricks Community Edition
 
 ![](images/databricks_ce_import_notebooks.png)
 
