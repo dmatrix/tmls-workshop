@@ -42,7 +42,7 @@ Instructor
 About the MLflow tracking module 1
 ----------------------------------
 
-In this part 1, we will cover:
+In this module 1, we will cover:
  * What and why MLflow and how MLflow addresses ML lifecycle
  * Tour through the MLflow APIs docs
  * Learn how to use Databricks Community Edition (DCE)
