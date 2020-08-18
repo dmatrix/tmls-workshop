@@ -39,15 +39,15 @@ Instructor
 ---
 
 
-About the MLflow tracking module 1
+About the MLflow Project module 2
 ----------------------------------
 
-In this module 1, we will cover:
- * What and why MLflow and how MLflow addresses ML lifecycle
- * Tour through the MLflow APIs docs
- * Learn how to use Databricks Community Edition (DCE)
- * Introduce MLflow Python Fluent Tracking APIs
- * Walk and work through a two machine learning models using MLflow APIs in the DCE
+In this module 2, we will cover:
+ * Concepts and motivation behind MLflow Projects 
+ * Tour of the the MLflow Project API Documentation
+ * How to execute and reproduce MLflow Projects in the Databricks Community Edition (DCE)
+ * Build an MLflow Project and share it for reproducible runs
+ * Use the MLflow UI on the DCE
  * Use the MLflow UI as part of DCE to compare experiment metrics, parameters, and runs
 
 Prerequisites
@@ -60,6 +60,7 @@ Prerequisites
      * scikit-learn
      * pandas and Numpy
      * matplotlib
+     * Keras/TensorFlow
 * [**optional for module-1**] PyCharm/IntelliJ or choice of syntax-based Python editor
 * [**optional for module-1**] pip/pip3 or conda and Python 3 installed
 * Loads of virtual laughter, curiosity, and a sense of humor ... :-)
@@ -99,14 +100,14 @@ We will walk through this during the session, but please sign up for [Databricks
 ![](../images/databricks_ce_create_mlr.png)
 
 4. In the brower: 
-  * (1) Go the GitHub **tracking/notebooks/dbc/** subdirectory
-  * (2) Download **MLFlow-Tracking.dbc** file on your laptop
+  * (1) Go the GitHub **projects/notebooks/dbc/** subdirectory
+  * (2) Download **MLFlow-Projects.dbc** file on your laptop
 
-![](../images/databricks_ce_download_notebooks.png)
+![](images/databricks_ce_download_notebooks.png)
 
-5. Import the **MLFlow-Tracking.dbc** file into the Databricks Community Edition
+5. Import the **MLFlow-Projects.dbc** file into the Databricks Community Edition
 
-![](images/databricks_ce_import_notebooks.png)
+![](../images/databricks_ce_import_notebooks.png)
 
 Let's go!
 
