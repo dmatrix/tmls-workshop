@@ -2,7 +2,7 @@ Managing the Complete Machine Learning Lifecycle with MLflow
 =============================================================
 ![](images/mlflow-workshop.png)
 
-Module 1 of 4
+Module 4 of 4
 -------------
 Other parts:
 - [Module 2]()

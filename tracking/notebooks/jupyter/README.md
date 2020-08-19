@@ -7,5 +7,5 @@
 
 ### RESOURCES
 
-1. How to use a [conda environment](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084) with Jupter notebook
+1. How to use a [conda environment](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084) with Jupyter notebook
 2. How to include or [run other notebooks]( https://vispud.blogspot.com/2019/02/ipynb-import-another-ipynb-file.htm) in a Jupyter notebook

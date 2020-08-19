@@ -2,7 +2,7 @@
 =============================================================
 ![](images/mlflow-workshop.png)
 
-Module 1 of 4
+Module 2 of 4
 -------------
 Other parts:
 - [Module 2]()
