@@ -1,0 +1,7 @@
+mlflow
+tensorflow
+keras
+pandas
+scikit-learn
+ipykernel
+jupyter
