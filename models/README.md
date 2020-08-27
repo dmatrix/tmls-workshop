@@ -104,7 +104,7 @@ We will walk through this during the session, but please sign up for [Databricks
 
 4. In the brower: 
   * (1) Go the GitHub **projects/notebooks/dbc/** subdirectory
-  * (2) Download **MLFlow-Projects.dbc** file on your laptop
+  * (2) Download **MLFlow-Models.dbc** file on your laptop
 
 ![](images/databricks_ce_download_notebooks.png)
 
