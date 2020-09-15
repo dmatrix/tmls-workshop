@@ -15,6 +15,7 @@ notebooks on your local host, after installing the requirements explained in the
 
 Thank you, and I hope you enjoy the flow!
 
-Cheers
+Cheers,
+
 Jules S.Damji
 
