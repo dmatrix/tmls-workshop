@@ -5,9 +5,9 @@
 Module 1 of 4
 -------------
 Other parts:
-- [Module 2]()
-- [Module 3]()
-- [Module 4]()
+- [Module 2](../projects/README.md)
+- [Module 3](../models/README.md)
+- [Module 4](../model_registery/README.md)
 
 Content for the MLflow O'Reilly Training Series
 -----------------------------------------------
