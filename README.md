@@ -3,10 +3,10 @@
 This OLT has four modules. Each one is located in a separate directory with 
 it respective README.md file and instructions how to follow the module.
 
-1. [MLflow Tracking](tracking/README.md)
-2. [MLFlow Projects](projects/README.md)
-3. [MLflow Models](models/README.md)
-4. [MLFlow Model Registry](model_registery/README.md)
+1. [MLflow Tracking](./tracking/README.md)
+2. [MLFlow Projects](./projects/README.md)
+3. [MLflow Models](./models/README.md)
+4. [Model Registry](./model_registery/README.md)
 
 Each module has both Databricks Community Edition notebooks in its `dbc` format and equivalent 
 Jupyter versions, with very mild variations. For the most part, you can run Jupyter 

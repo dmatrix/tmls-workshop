@@ -1,13 +1,13 @@
 Managing the Complete Machine Learning Lifecycle with MLflow
 =============================================================
-![](images/mlflow-workshop.png)
+![](./images/mlflow-workshop.png)
 
 Module 4 of 4
 -------------
 Other parts:
-- [Module 2]()
-- [Module 3]()
-- [Module 4]()
+- [Module 2](../projects/README.md)
+- [Module 3](../models/README.md)
+- [Module 4](../model_registery/README.md)
 
 Content for the MLflow O'Reilly Training Series
 -----------------------------------------------
@@ -41,3 +41,49 @@ Instructor
 
 About the MLflow Model Registry module 4
 ----------------------------------------
+In this module 4, we will cover:
+
+ * Concepts and motivation behind and Model Registry
+ * Tour of the the Model Registry API Documentation
+ * Understand Model Registry Workflow
+    * UI Workflow
+    * API Workflow
+ * How to create models and register them
+ * How to use Pyfunc Model Flavor to load models from Model Registry
+ * Use the Model Registry UI on Jupyter Lab (local host) or Google Colab
+
+Prerequisites
+-------------
+* Python 3, pip, and conda pre installed
+* Knowledge on how to use conda
+* Knowledge of Python 3 and programming in general
+* Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
+* Familiarity with GitHub, git, and an account on Github
+* Some knowledge of Machine Learning concepts, libraries, and frameworks
+ * scikit-Learn
+ * pandas and Numpy
+* Loads of virtual laughter, curiosity, and a sense of humor ... :-)
+
+How to get the Workshop Material
+---------------------------------
+
+1. Familiarity with git is important so that you can get all the material easily during the tutorial and
+workshop as well as continue to work on in your free time, after the session is over.
+
+```git clone git@github.com:dmatrix/olt-mlflow.git or git clone https://github.com/dmatrix/olt-mlflow.git```
+
+Setup your conda environment for Jupyter Lab and MLflow
+-------------------------------------------------------
+1. conda create --name jupyter-mlflow
+2. conda activate jupyter-mlflow
+3. pip install -r jupyter_requirements.txt
+4. python -m ipykernel install --user --name=mlflow
+4. jupyter lab &
+
+Setup for Google Colab and MLflow
+-------------------------------------------------------
+1. Sign up for [Google Colab](https://colab.research.google.com/])
+2. Select the **GitHub** tab
+3. Insert the GitHub Repo URL: https://github.com/dmatrix/olt-mlflow/
+4. Select the ``colab_run_forecast_model.ipynb`` Notebook
+5. Flow with MLflow!
