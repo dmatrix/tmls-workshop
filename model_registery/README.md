@@ -84,6 +84,7 @@ Setup for Google Colab and MLflow
 -------------------------------------------------------
 1. Sign up for [Google Colab](https://colab.research.google.com/])
 2. Select the **GitHub** tab
-3. Insert the GitHub Repo URL: https://github.com/dmatrix/olt-mlflow/
+3. Insert the GitHub Repo URL: ``https://github.com/dmatrix/olt-mlflow/``
+4. Navigate to `model_registry/notebooks` directory
 4. Select the ``colab_run_forecast_model.ipynb`` Notebook
 5. Flow with MLflow!
