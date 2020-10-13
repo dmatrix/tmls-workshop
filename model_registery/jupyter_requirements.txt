@@ -1,5 +1,7 @@
 mlflow
 pandas
+numpy
+matplotlib
 scikit-learn
 ipykernel
 jupyterlab

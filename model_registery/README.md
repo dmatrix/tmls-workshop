@@ -67,16 +67,21 @@ Prerequisites
 How to get the Workshop Material
 ---------------------------------
 
-1. Familiarity with git is important so that you can get all the material easily during the tutorial and
-workshop as well as continue to work on in your free time, after the session is over.
+1. Familiarity with git is important so that you can get all the material easily during 
+the tutorial and workshop as well as continue to work on in your free time, after the 
+session is over.
 
 ```git clone git@github.com:dmatrix/olt-mlflow.git or git clone https://github.com/dmatrix/olt-mlflow.git```
 
 Setup your conda environment for Jupyter Lab and MLflow
 -------------------------------------------------------
-1. conda create --name jupyter-mlflow
-2. conda activate jupyter-mlflow
-3. pip install -r jupyter_requirements.txt
-4. python -m ipykernel install --user --name=mlflow
-4. jupyter lab &
-5. Flow with MLflow!
+
+1. cd olt-mlflow
+2. conda create --name jupyter-mlflow
+3. conda activate jupyter-mlflow
+4. pip install -r jupyter_requirements.txt
+5. python -m ipykernel install --user --name=mlflow
+6. Run `mlflow --help` to check that MLflow's was correctly installed
+7. jupyter lab &
+8. Open the `notebooks/run_weather_forecast.ipynb` notebook
+8. Flow with MLflow!
