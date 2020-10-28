@@ -76,11 +76,11 @@ session is over.
 Setup your conda environment for Jupyter Lab and MLflow
 -------------------------------------------------------
 
-1. cd olt-mlflow
-2. conda create --name jupyter-mlflow
-3. conda activate jupyter-mlflow
-4. pip install -r jupyter_requirements.txt
-5. python -m ipykernel install --user --name=mlflow
+1. `cd olt-mlflow`
+2. `conda create --name jupyter-mlflow`
+3. `conda activate jupyter-mlflow`
+4. `pip install -r jupyter_requirements.txt`
+5. `python -m ipykernel install --user --name=mlflow`
 6. Run `mlflow --help` to check that MLflow's was correctly installed
 7. cd `cd model_registery/notebooks/` 
 8. `jupyter lab &`
