@@ -14,7 +14,7 @@ before coming to class.
 Each module, except module 4, has both [Databricks Community Edition](https://databricks.com/try-databricks) notebooks in its `dbc` format 
 and equivalent Jupyter notebook versions, with very mild variations. For the most part, you can run Jupyter 
 notebooks on your local host, after installing the requirements explained in the 
-`README.md` files in the respective `<module>/notebooks/juputer` directory.
+`README.md` files in the respective `<module>/notebooks/jupyter` directory.
 
 Thank you, and I hope you enjoy the flow!
 
