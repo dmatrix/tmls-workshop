@@ -70,7 +70,7 @@ Obtaining the Tutorial Material
 Familiarity with **git** is important so that you can get all the material easily during the tutorial and
 workshop as well as continue to work in your free time, after the session is over.
 
-``` git clone git@github.com:dmatrix/olt-mlflow.git or git clone https://github.com/dmatrix/olt-mlflow.git```
+``` git clone github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
 
 Documentation Resources
 -----------------------
@@ -89,12 +89,12 @@ How to get started
 -------------------
 We will walk through this during the session, but please sign up for [Databricks Community Edition](https://databricks.com/try-databricks) before the session :
 
-1. ``` git clone git@github.com:dmatrix/olt-mlflow.git ```
+1. ``` git clone github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
 2. Use this [URL](https://community.cloud.databricks.com/login.html) to log into the Databricks Community Edition
 
 ![](../images/databricks_ce_loging.png)
 
-3. Create a ML Runtime 7.1+ with Spark 3.0.0 Cluster
+3. Create a ML Runtime 7.4 with Spark 3.0.1 Cluster
 
 ![](../images/databricks_ce_create_mlr.png)
 

@@ -71,7 +71,8 @@ Obtaining the Tutorial Material
 Familiarity with **git** is important so that you can get all the material easily during the tutorial and
 workshop as well as continue to work in your free time, after the session is over.
 
-``` git clone git@github.com:dmatrix/olt-mlflow.git or git clone https://github.com/dmatrix/olt-mlflow.git```
+``` git clone github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
+
 
 Documentation Resources
 -----------------------
