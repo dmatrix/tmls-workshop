@@ -102,8 +102,6 @@ We will walk through this during the session, but please sign up for [Databricks
   * (1) Go the GitHub **tracking/notebooks/dbc/** subdirectory
   * (2) Download **MLFlow-Tracking.dbc** file on your laptop
 
-![](../images/databricks_ce_download_notebooks.png)
-
 5. Import the **MLFlow-Tracking.dbc** file into the Databricks Community Edition
 
 ![](images/databricks_ce_import_notebooks.png)
