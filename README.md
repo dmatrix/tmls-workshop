@@ -12,10 +12,7 @@ before coming to class.
 3. [MLflow Models](./models/README.md)
 4. [Model Registry](./model_registery/README.md)
 
-Each module, except module 4, has both [Databricks Community Edition](https://databricks.com/try-databricks) notebooks in its `dbc` format 
-and equivalent Jupyter notebook versions, with very mild variations. For the most part, you can run Jupyter 
-notebooks on your local host, after installing the requirements explained in the 
-`README.md` files in the respective `<module>/notebooks/jupyter` directory.
+Each module, except module 4, has both [Databricks Community Edition](https://databricks.com/try-databricks) notebooks in its `dbc` format.
 
 Thank you, and I hope you enjoy the flow!
 
