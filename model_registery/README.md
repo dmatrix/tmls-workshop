@@ -9,8 +9,8 @@ Other parts:
 - [Module 3](../models/README.md)
 - [Module 4](../model_registery/README.md)
 
-Content for the MLflow O'Reilly Training Series
------------------------------------------------
+Content for the MLflow Workshop Series
+---------------------------------------
 Machine Learning (ML) development brings many new complexities beyond the traditional software development lifecycle. Unlike in traditional software development, ML developers want to try multiple algorithms, tools and parameters to get the best results, and they need to track this information to reproduce work. In addition, developers need to use many distinct systems to productionize models.
 
 To solve these challenges, [MLflow](https://mlflow.org), an open source project, simplifies the entire ML lifecycle. MLflow introduces simple abstractions to package reproducible projects, track results, 
@@ -76,7 +76,7 @@ session is over.
 Setup your conda environment for Jupyter Lab and MLflow
 -------------------------------------------------------
 
-1. `cd olt-mlflow`
+1. `cd tmls-workshop`
 2. `conda create --name jupyter-mlflow`
 3. `conda activate jupyter-mlflow`
 4. `pip install -r jupyter_requirements.txt`

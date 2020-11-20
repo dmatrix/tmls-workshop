@@ -1,6 +1,7 @@
-## O'Reilly Online Training (OLT) Materials for MLflow
+![](images/tmls_sv.png)
+##  Toronto Machine Learning Workshop Materials for MLflow
 
-This OLT has four modules. Each one is located in a separate directory with 
+This workshop has four modules. Each one is located in a separate directory with 
 it respective README.md file and instructions how to follow the module.
 
 **Note**: For modules 1-3, you'll need [Databricks Community Edition](https://databricks.com/try-databricks). Please register for this
