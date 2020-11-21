@@ -12,7 +12,10 @@ before coming to class.
 3. [MLflow Models](./models/README.md)
 4. [Model Registry](./model_registery/README.md)
 
-Each module, except module 4, has both [Databricks Community Edition](https://databricks.com/try-databricks) notebooks in its `dbc` format.
+Each module, except module 4, has [Databricks Community Edition](https://databricks.com/try-databricks) notebooks in its `dbc` format.
+For module 4 (Model Registry), we'll use local host using Jupyter Notebooks. Please follow instructions for module
+4 to setup your local host. To get most out of this workshop, I advice you register for the Databricks Community Edition 
+(DCE) before the workshop.
 
 Thank you, and I hope you enjoy the flow!
 
