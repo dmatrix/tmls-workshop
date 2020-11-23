@@ -50,7 +50,7 @@ In this module 4, we will cover:
     * API Workflow
  * How to create models and register them
  * How to use Pyfunc Model Flavor to load models from Model Registry
- * Use the Model Registry UI on Jupyter Lab (local host) or Google Colab
+ * Use the Model Registry UI on Jupyter Lab (local host) 
 
 Prerequisites
 -------------
@@ -71,7 +71,7 @@ How to get the Workshop Material
 the tutorial and workshop as well as continue to work on in your free time, after the 
 session is over.
 
-```git clone git@github.com:dmatrix/olt-mlflow.git or git clone https://github.com/dmatrix/olt-mlflow.git```
+```git clone git@github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
 
 Setup your conda environment for Jupyter Lab and MLflow
 -------------------------------------------------------
