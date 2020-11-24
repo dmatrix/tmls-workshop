@@ -60,7 +60,7 @@ Prerequisites
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
 * Familiarity with GitHub, git, and an account on Github
 * Some knowledge of Machine Learning concepts, libraries, and frameworks
- * scikit-Learn
+ * scikit-learn
  * pandas and Numpy
 * Loads of virtual laughter, curiosity, and a sense of humor ... :-)
 

@@ -100,9 +100,9 @@ We will walk through this during the session, but please sign up for [Databricks
 
 4. In the brower: 
   * (1) Go the GitHub **tracking/notebooks/dbc/** subdirectory
-  * (2) Download **MLFlow-Tracking.dbc** file on your laptop
+  * (2) Download **MLflow-Tracking.dbc** file on your laptop
 
-5. Import the **MLFlow-Tracking.dbc** file into the Databricks Community Edition
+5. Import the **MLflow-Tracking.dbc** file into the Databricks Community Edition
 
 ![](images/databricks_ce_import_notebooks.png)
 
