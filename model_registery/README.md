@@ -54,7 +54,7 @@ In this module 4, we will cover:
 
 Prerequisites
 -------------
-* Python 3, pip, and conda pre installed
+* Python 3, latest pip or pip3, and conda pre installed
 * Knowledge on how to use conda
 * Knowledge of Python 3 and programming in general
 * Preferably a UNIX-based, fully-charged laptop with 8-16 GB, with a Chrome or Firefox browser
