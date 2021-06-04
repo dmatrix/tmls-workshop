@@ -47,7 +47,7 @@ In this module 1, we will cover:
  * Tour through the MLflow APIs docs
  * Learn how to use Databricks Community Edition (DCE)
  * Introduce MLflow Python Fluent Tracking APIs
- * Walk and work through a two machine learning models using MLflow APIs in the DCE
+ * Walk and work through a machine learning model using MLflow APIs in the DCE
  * Use the MLflow UI as part of DCE to compare experiment metrics, parameters, and runs
 
 Prerequisites
@@ -94,7 +94,7 @@ We will walk through this during the session, but please sign up for [Databricks
 
 ![](../images/databricks_ce_loging.png)
 
-3. Create a ML Runtime 7.4 with Spark 3.0.1 Cluster
+3. Create a **8.2 ML (includes Apache Spark 3.1.1, Scala 2.12)** cluster
 
 ![](../images/databricks_ce_create_mlr.png)
 

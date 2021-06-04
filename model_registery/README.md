@@ -73,7 +73,7 @@ session is over.
 
 ```git clone git@github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
 
-Setup your conda environment for Jupyter Lab and MLflow
+Set up your conda environment for Jupyter Lab and MLflow
 -------------------------------------------------------
 
 1. `cd tmls-workshop`

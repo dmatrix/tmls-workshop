@@ -1,4 +1,4 @@
-![](images/tmls_sv.png)
+![](images/tmls_2021.png)
 ##  Toronto Machine Learning Workshop Materials for MLflow
 
 This workshop has four modules. Each one is located in a separate directory with 
