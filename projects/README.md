@@ -44,7 +44,7 @@ About the MLflow Project module 2
 
 In this module 2, we will cover:
  * Concepts and motivation behind MLflow Projects 
- * Tour of the the MLflow Project API Documentation
+ * Tour of the MLflow Project API Documentation
  * How to execute and reproduce MLflow Projects in the Databricks Community Edition (DCE)
  * Build an MLflow Project and share it for reproducible runs
  * Use the MLflow UI on the DCE
@@ -96,7 +96,7 @@ We will walk through this during the session, but please sign up for [Databricks
 
 ![](../images/databricks_ce_loging.png)
 
-3. Create a ML Runtime 7.4 with Spark 3.0.1 Cluster
+3. Create a **8.2 ML (includes Apache Spark 3.1.1, Scala 2.12)** cluster
 
 ![](../images/databricks_ce_create_mlr.png)
 
