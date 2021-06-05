@@ -98,7 +98,7 @@ We will walk through this during the session, but please sign up for [Databricks
 
 ![](../images/databricks_ce_create_mlr.png)
 
-4. In the brower: 
+4. In the browser: 
   * (1) Go the GitHub **tracking/notebooks/dbc/** subdirectory
   * (2) Download **MLflow-Tracking.dbc** file on your laptop
 

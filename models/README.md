@@ -93,16 +93,16 @@ How to get started
 -------------------
 We will walk through this during the session, but please sign up for [Databricks Community Edition](https://databricks.com/try-databricks) before the session :
 
-1. ``` git clone git@github.com:dmatrix/olt-mlflow.git ```
+1. ```git clone github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
 2. Use this [URL](https://community.cloud.databricks.com/login.html) to log into the Databricks Community Edition
 
 ![](../images/databricks_ce_loging.png)
 
-3. Create a ML Runtime 7.4 with Spark 3.0.1 Cluster
+3. Create a **8.2 ML (includes Apache Spark 3.1.1, Scala 2.12)** cluster
 
 ![](../images/databricks_ce_create_mlr.png)
 
-4. In the brower: 
+4. In the browser: 
   * (1) Go the GitHub **projects/notebooks/dbc/** subdirectory
   * (2) Download **MLflow-Models.dbc** file on your laptop
 

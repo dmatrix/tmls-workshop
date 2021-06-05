@@ -91,7 +91,7 @@ How to get started
 -------------------
 We will walk through this during the session, but please sign up for [Databricks Community Edition](https://databricks.com/try-databricks) before the session :
 
-1. ``` git clone git@github.com:dmatrix/olt-mlflow.git ```
+1. ``` git clone github.com:dmatrix/tmls-workshop.git or git clone https://github.com/dmatrix/tmls-workshop.git```
 2. Use this [URL](https://community.cloud.databricks.com/login.html) to log into the Databricks Community Edition
 
 ![](../images/databricks_ce_loging.png)
@@ -100,7 +100,7 @@ We will walk through this during the session, but please sign up for [Databricks
 
 ![](../images/databricks_ce_create_mlr.png)
 
-4. In the brower: 
+4. In the browser: 
   * (1) Go the GitHub **projects/notebooks/dbc/** subdirectory
   * (2) Download **MLflow-Projects.dbc** file on your laptop
 
