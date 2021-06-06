@@ -44,7 +44,7 @@ About the MLflow Model Registry module 4
 In this module 4, we will cover:
 
  * Concepts and motivation behind and Model Registry
- * Tour of the the Model Registry API Documentation
+ * Tour of the Model Registry API Documentation
  * Understand Model Registry Workflow
     * UI Workflow
     * API Workflow
@@ -76,14 +76,15 @@ session is over.
 Set up your conda environment for Jupyter Lab and MLflow
 -------------------------------------------------------
 
-1. `cd tmls-workshop`
-2. `conda create --name jupyter-mlflow`
-3. `conda activate jupyter-mlflow`
+1. `cd tmls-workshop/model_registry`
+2. `conda create --name tmls-jupyter-mlflow`
+3. `conda activate tmls-jupyter-mlflow`
 4. `pip [pip3] install -r jupyter_requirements.txt`
 5. `python -m ipykernel install --user --name=mlflow`
 6. Run `mlflow --help` to check that MLflow's was correctly installed
-7. cd `cd model_registery/notebooks/` 
-8. `jupyter lab &`
-9. Open the `run_weather_forecast.ipynb` notebook
+7. `mlflow --version`
+8. cd `cd notebooks` 
+9. `jupyter lab &`
+10. Open the `run_weather_forecast.ipynb` notebook
 
 Just flow with MLflow!
