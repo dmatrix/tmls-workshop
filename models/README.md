@@ -48,7 +48,7 @@ About the MLflow Models module 3
 
 In this module 3, we will cover:
  * Concepts and motivation behind and Models 
- * Tour of the the MLflow Model API Documentation
+ * Tour of the MLflow Model API Documentation
  * How to create different model flavors
  * Pyfunc Model Flavor: what and how to use it
  * Use the MLflow UI on the DCE
